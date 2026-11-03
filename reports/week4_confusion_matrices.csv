@@ -1,0 +1,5 @@
+Model,TP (Not Placed),FN (Not Placed),FP (Not Placed),TN (Placed)
+Majority-class baseline,0,27,0,173
+Logistic Regression,22,5,52,121
+Decision Tree,21,6,83,90
+Random Forest,4,23,3,170
